@@ -62,7 +62,7 @@ else:
 ```
 # Output : 
 
-![image](https://user-images.githubusercontent.com/75413726/168961614-51a14483-c6f5-49e2-8158-f9a661853552.png)
+![img](https://user-images.githubusercontent.com/75413726/169035663-aa24f3c9-9ce9-4661-ab99-a2771ca518f1.jpg)
 
 # Result:
  
